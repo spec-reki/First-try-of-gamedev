@@ -1,8 +1,8 @@
 # First-try-of-gamedev
-A repository for my first tries of creafting games.
+A repository for my first attempts of creafting games.
 
-- I don't know what game it will be, but everyone was starting in the past so it's time for me now.
+Basicly I just did a brackeys tutorial about creating easy game in unity.
+Really easy mechanics, absolutly every thing is the same like in the course.
+This course was really hellpfulll becouse I've learned how to use Unity, Github desktop and Visual Studio Code with Unity extensions.
 
-
-
-- Why am i doing this?
+Here's a link to the ccorse: https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6
